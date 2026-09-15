@@ -8,5 +8,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/vtu30003-gif/Applied-programming-skills-week-3/tree/master/0155-min-stack) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu30003-gif/Applied-programming-skills-week-3/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vtu30003-gif/Applied-programming-skills-week-3/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
